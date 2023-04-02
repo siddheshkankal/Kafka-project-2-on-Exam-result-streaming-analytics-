@@ -1,0 +1,71 @@
+gender,group,parental level of education,lunch,test preparation course,math score,reading score,writing score
+female,group A,bachelor's degree,standard,none,62,59,63
+male,group A,master's degree,free/reduced,none,53,57,51
+male,group A,associate's degree,free/reduced,completed,48,61,59
+male,group A,associate's degree,free/reduced,none,67,64,60
+male,group A,some high school,free/reduced,none,42,40,40
+female,group A,master's degree,free/reduced,none,40,59,59
+male,group A,bachelor's degree,standard,none,56,38,44
+male,group A,some college,standard,none,72,65,59
+male,group A,some college,standard,none,57,57,53
+female,group A,some high school,free/reduced,none,33,54,51
+male,group A,some high school,free/reduced,completed,40,41,39
+male,group A,bachelor's degree,free/reduced,none,43,34,33
+female,group A,some college,free/reduced,completed,53,70,69
+male,group A,some college,free/reduced,none,63,61,55
+female,group A,some high school,free/reduced,completed,55,73,70
+female,group A,associate's degree,standard,none,58,54,58
+male,group A,some high school,free/reduced,none,48,39,40
+female,group A,high school,standard,none,63,69,60
+male,group A,high school,standard,none,52,49,43
+female,group A,bachelor's degree,standard,none,54,66,69
+male,group A,high school,free/reduced,none,45,33,32
+male,group A,some college,standard,completed,65,60,62
+male,group A,some college,standard,none,63,50,49
+male,group A,some high school,free/reduced,completed,49,44,41
+female,group A,associate's degree,free/reduced,completed,45,72,66
+male,group A,some high school,standard,none,58,50,47
+male,group A,associate's degree,free/reduced,none,46,44,44
+female,group A,some high school,standard,none,58,72,62
+female,group A,bachelor's degree,standard,none,57,71,63
+female,group A,some college,standard,none,46,51,54
+female,group A,some high school,free/reduced,completed,51,64,62
+male,group A,some college,free/reduced,none,49,48,42
+female,group A,master's degree,free/reduced,none,42,50,44
+male,group A,some college,standard,none,53,48,48
+female,group A,associate's degree,standard,none,52,64,55
+female,group A,some high school,free/reduced,none,33,54,51
+male,group A,some high school,free/reduced,completed,40,41,39
+female,group A,some high school,standard,none,58,72,62
+male,group A,some high school,free/reduced,none,48,39,40
+male,group A,some high school,standard,none,58,50,47
+male,group A,bachelor's degree,free/reduced,none,43,34,33
+female,group A,high school,standard,none,63,69,60
+female,group A,some high school,free/reduced,completed,51,64,62
+male,group A,high school,free/reduced,none,45,33,32
+male,group A,associate's degree,free/reduced,none,46,44,44
+female,group A,some college,free/reduced,completed,53,70,69
+female,group A,some college,standard,none,46,51,54
+female,group A,associate's degree,free/reduced,completed,45,72,66
+female,group A,master's degree,free/reduced,none,42,50,44
+female,group A,some high school,free/reduced,completed,55,73,70
+female,group A,bachelor's degree,standard,none,62,59,63
+male,group A,some college,standard,none,63,50,49
+male,group A,bachelor's degree,standard,none,56,38,44
+male,group A,some college,standard,none,72,65,59
+female,group A,bachelor's degree,standard,none,57,71,63
+female,group A,bachelor's degree,standard,none,54,66,69
+female,group A,master's degree,free/reduced,none,40,59,59
+male,group A,some college,standard,none,53,48,48
+female,group A,associate's degree,standard,none,52,64,55
+male,group A,some college,free/reduced,none,63,61,55
+male,group A,some high school,free/reduced,completed,49,44,41
+male,group A,some college,free/reduced,none,49,48,42
+female,group A,associate's degree,standard,none,58,54,58
+male,group A,some college,standard,completed,65,60,62
+male,group A,master's degree,free/reduced,none,53,57,51
+male,group A,high school,standard,none,52,49,43
+male,group A,associate's degree,free/reduced,completed,48,61,59
+male,group A,associate's degree,free/reduced,none,67,64,60
+male,group A,some high school,free/reduced,none,42,40,40
+male,group A,some college,standard,none,57,57,53
